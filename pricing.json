@@ -1,0 +1,14 @@
+{
+  "repo": "gpt5.6luna-gpt-5.6-luna-api",
+  "model": "gpt-5.6-luna",
+  "display": "GPT-5.6 Luna",
+  "variant": "llm",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 0.16,
+    "cached_input": 0.016,
+    "cache_write": 0.2
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
