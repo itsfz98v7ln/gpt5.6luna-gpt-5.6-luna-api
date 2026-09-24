@@ -2,7 +2,7 @@
 
 > **input $0.16; cached_input $0.016; cache_write $0.2** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-100e3a)** · **[Get an API key](https://go.apimart.ai/k-0b5182)**
 
 Everything here refers to **gpt-5.6-luna** — also written **gpt5.6luna** or **gpt 5.6 luna**.
 
